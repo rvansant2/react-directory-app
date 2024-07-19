@@ -15,7 +15,7 @@ The framework is complete. It contains:
 ## Required
 * [Nodejs v20.x](https://nodejs.org/en)
 * [npm v10.5.x](https://www.npmjs.com/package/npm)
-* [nvmv0.39.x](https://github.com/nvm-sh/nvm)
+* [nvm v0.39.x](https://github.com/nvm-sh/nvm)
 
 ## Get started
 * Install the above requirements based on your OS: [Mac, Windows or Linux](https://nodejs.org/en/download/package-manager).
@@ -33,6 +33,7 @@ npm start
     - Changes are not reflected when updates are saved. A restart of the server is required.
 * Need layout formatting on pages.
 * Need Jest tests.
+* Need Docker build and orchestration for ease of deployment.
 
 
 
